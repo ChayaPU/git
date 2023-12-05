@@ -1,2 +1,3 @@
-Hi example file\
-Good Morning
+Hi example file\Good Morning
+
+Have a nice day
